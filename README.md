@@ -10,6 +10,7 @@ file. Additionally, you can update the program to return movie synopsis by uncom
 a commented section in the model.py file.
 
 To run this program, firstly set up a virtual environment using the following commands:
+
       python3 -m venv venv
       source ./venv/bin/activate
 
