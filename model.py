@@ -18,5 +18,5 @@ def generate_result(input, df, count = 5):
     print(f"Title: {row['title']}")
     print(f"Similarity Score: {score[count]}")
     count += 1
-    print(f"Description: {row['plot_synopsis']}")
+    #print(f"Description: {row['plot_synopsis']}")
     print('\n')
